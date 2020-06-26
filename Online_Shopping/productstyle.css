@@ -1,0 +1,111 @@
+
+
+.product_slider .carousel-indicators{
+    bottom: -40px;
+
+}
+.product_slider .carousel-indicators .active{
+    background-color: #444;
+    border-color:
+}
+.product_slider .carousel-indicators li{
+   
+    border-color:#444;
+}
+.product_title p{
+    text-transform: capitalize;
+}
+
+.ncheck{color: #333333;}
+    .check{color:orange;}
+    .men {
+      background-color: #E5E5FF;
+
+      padding: 10px;
+    }
+
+.electronics{
+      background-color: #fffce9;
+       
+      padding: 10px;
+    
+    }
+
+.women {
+      background-color: #ffe9ec;
+
+      padding: 10px;
+    }
+.product_slider{
+    
+    padding-bottom: 50px;
+}
+
+
+    .product_slider .carousel-control {
+      width: 2%;
+    }
+    .product_item p {
+      color: white;
+    }
+    .product_item a:hover {
+      text-decoration: none;
+    }
+    .product_item .hline {
+      margin: 10px 0;
+      height: 1px;
+      background: #ccc;
+    }
+    @media all and (max-width: 768px) {
+      .product_item {
+        margin-bottom: 30px;
+      }
+    }
+    .product_photo {
+      text-align: center;
+      height: 180px;
+      background: #fff;
+    }
+    .product_photo img {
+      height: 100%;
+      display: inline-block;
+        position: relative;
+        transition: ease-in-out .3s;
+    }
+    .product_photo img:hover {
+       opacity: .7;
+        
+        
+    }
+    .product_info {
+        
+      
+      padding: 15px;
+    }
+    .product_title h4 {
+      margin-top: 0;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    .product_rating {
+      color: #acacac;
+    }
+.product_rating p{
+      color: orangered;
+    }
+    .product_rating .active {
+      color: #FFB500;
+    }
+    .tcb-product-price {
+      color: firebrick;
+      font-size: 18px;
+    }
+    .glyphicon {color :#606060FF;}
+.text-success{
+    color:#D6ED17FF;
+}
+
+
+    
+</style>
