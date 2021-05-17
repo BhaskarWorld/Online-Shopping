@@ -42,7 +42,7 @@ A free and open-source cross-platform web server solution stack package develope
  
 # How To Setup?
 
-### Step 1: Get the Website Code
+### Step 1: Get the repo link
 At first, clone or download the repository.
 ```
 git clone https://github.com/BhaskarWorld/Online-Shopping.git
